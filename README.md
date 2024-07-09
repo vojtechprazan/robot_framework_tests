@@ -15,4 +15,4 @@ Here I put tests to examine and discover Robot Framework feature
 - **Create Post And Verify Response**: Creates a new post for the user with a non-empty title and body.
 
 ## Run tests
-robot tests/test_1.robot
+```robot tests/test_1.robot```
